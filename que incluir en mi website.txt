@@ -1,0 +1,13 @@
+adicionar 
+
+Contact details
+	email
+	phone
+link a linkedin y twitter accounts
+Experience
+Education
+Skills
+Download CV
+make contact form work
+Add tutorial about how to make a website with nodejs
+
