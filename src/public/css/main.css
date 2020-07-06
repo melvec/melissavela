@@ -16,15 +16,17 @@ body{
 
 .bgimg{
   
+
+  background-color:  whitesmoke;
+  /*
   background-image: 
-  url('../img/descarga.png') ,
-  url('../img/descarga.png') ;
+  url('../img/background.jpg') ,
+  url('../img/background.jpg') ;
   background-position:
   top right,
   top left;
   
-  background-repeat: no-repeat,
- no-repeat;
+  background-repeat: repeat,repeat;*/
  
  
 }
