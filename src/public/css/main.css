@@ -4,29 +4,24 @@ body{
     position: relative;
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
-    background-color:  #48389e;
+    background-color: #48389e;
 }
 
 .progress-bar-purple {
-  background: #7F7FD5;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: grey;
   
 }
 
 .bgimg{
   
-
-  background-color:  whitesmoke;
-  /*
   background-image: 
-  url('../img/background.jpg') ,
-  url('../img/background.jpg') ;
+  url('../img/descargaq.png') ,
+  url('../img/descargaq.png.png') ;
   background-position:
   top right,
   top left;
   
-  background-repeat: repeat,repeat;*/
+  background-repeat: repeat, repeat;
  
  
 }
@@ -45,16 +40,11 @@ body{
 .container{
 
   background-color: aliceblue;
-
   background-image: 
-  url('../img/rombos.png') ,
-  url('../img/rombos.png') ;
+  url('../img/bolitas.png');
   background-position:
-  bottom right,
-  top left;
-  
-  background-repeat: no-repeat,
- no-repeat;
+  top right;
+  background-repeat: no-repeat;
 
 }
 .border {
