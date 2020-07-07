@@ -1,3 +1,14 @@
+Home
+Services
+About
+Contact
+
+Links en bolitas a Services / About / Contact
+Logo
+Nombre de empresa o producto
+Link en skills a una descripción 
+
+
 adicionar 
 
 Contact details
@@ -11,3 +22,15 @@ Download CV
 make contact form work
 Add tutorial about how to make a website with nodejs
 
+
+
+Incluir links (a linkedin y github)
+Al hacer clic en:
+Email: abrir el email
+Al mapa: abrir mapa
+al teléfono: abrir app de telefono
+
+
+Adicionar mis datos de contacto al formulario de Contact
+
+Include What people say
