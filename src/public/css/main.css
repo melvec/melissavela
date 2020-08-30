@@ -7,6 +7,9 @@ body{
     background-color: #48389e;
 }
 
+a {
+  color: rgb(77, 72, 72);
+}
 .progress-bar-purple {
   background: grey;
   
