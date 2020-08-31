@@ -155,13 +155,13 @@ h3
 
 .scroll {
   color: #fff;
-  margin-top: 100px
+  margin-top: 1px
 }
 
 #toTopBtn {
   position: fixed;
   bottom: 26px;
-  right: 39px;
+  right: 100px;
   z-index: 98;
   padding: 21px;
   background-color: rgba(143, 50, 219, 0.8)
