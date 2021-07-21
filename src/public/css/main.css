@@ -34,11 +34,23 @@ a {
 
   background-color:white;
 
-  max-width: 70%;
+  max-width: 80%;
   margin: auto;
   align-items: center;
   align-content: center;
 
+}
+
+@media (max-width: 767px) {
+  
+  .innercontainer{
+    background-color:white;
+
+    max-width: 100%;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+  }
 }
 
 .container{
