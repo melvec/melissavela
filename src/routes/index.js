@@ -10,5 +10,8 @@ router.get("/contact", (req,res)=>{
     res.render('contact.html', {title:'Melissa Vela'});
 });
 
+router.get("/list-items", (req,res)=>{
+    res.render('list-items.html', {title:'Challenge'});
+});
  
 module.exports = router;
