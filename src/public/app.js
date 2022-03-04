@@ -11,5 +11,17 @@ for (const root of document.querySelectorAll(".table-refresh[data-url]"))
  table.createList.add("table-refresh__table");
  options.createList.add("table-refresh__options");
 
+table.innerHTML = `
+<thead>
+<tr></tr>
+</thead>
+<tbody>
+<tr>
+<td>Loading</td>
+</tr>
+`;
+root.append(table, options);
+
+
 
 }
